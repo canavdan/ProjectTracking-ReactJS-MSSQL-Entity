@@ -1,0 +1,29 @@
+{
+  "name": "react5",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "rc-progress": "^2.2.1",
+    "react": "^15.6.1",
+    "react-bootstrap-table": "^3.4.6",
+    "react-chartjs": "^0.8.0",
+    "react-dom": "^15.6.1",
+    "react-dropzone": "^3.13.4",
+    "react-progressbar": "^1.4.6",
+    "react-router-dom": "^4.1.2",
+    "react-scripts": "1.0.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0",
+    "prettier-eslint": "^6.4.2"
+  }
+}
