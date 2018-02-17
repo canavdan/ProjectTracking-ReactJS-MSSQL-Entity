@@ -10,7 +10,7 @@ project​​ detail,adding​​ user​​ or​​ company.I​​ am​​ u
 <img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_2.png?raw=true?raw=true"/>
 <img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_3.png?raw=true?raw=true"/>
 <img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_4.png?raw=true?raw=true"/>
-<img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/sql?raw=true?raw=true"/>
+<img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/sql.png?raw=true?raw=true"/>
 <img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_5.png?raw=true?raw=true"/>
 <img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_7.png?raw=true?raw=true"/>
 <img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_8.png?raw=true?raw=true"/>
