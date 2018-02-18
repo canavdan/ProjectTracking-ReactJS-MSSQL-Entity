@@ -6,15 +6,15 @@ the​​ project,there​​ is​​ an​​ admin​​ panel​​ to​​
 project​​ detail,adding​​ user​​ or​​ company.I​​ am​​ using​​ ReactJS​​ from​​ web​​ part.
 
 
-<img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_1.png?raw=true?raw=true"/>
-<img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_2.png?raw=true?raw=true"/>
-<img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_3.png?raw=true?raw=true"/>
-<img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_4.png?raw=true?raw=true"/>
-<img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/sql.png?raw=true?raw=true"/>
-<img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_5.png?raw=true?raw=true"/>
-<img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_7.png?raw=true?raw=true"/>
-<img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_8.png?raw=true?raw=true"/>
-<img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/adminpage.png?raw=true?raw=true"/>
-<img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/firmaekle.png?raw=true?raw=true"/>
-<img width="35%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/projectdetail.png?raw=true?raw=true"/>
+<img width="45%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_1.png?raw=true?raw=true"/>
+<img width="45%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_2.png?raw=true?raw=true"/>
+<img width="45%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_3.png?raw=true?raw=true"/>
+<img width="45%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_4.png?raw=true?raw=true"/>
+<img width="45%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/sql.png?raw=true?raw=true"/>
+<img width="45%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_5.png?raw=true?raw=true"/>
+<img width="45%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_7.png?raw=true?raw=true"/>
+<img width="45%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/Screenshot_8.png?raw=true?raw=true"/>
+<img width="45%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/adminpage.png?raw=true?raw=true"/>
+<img width="45%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/firmaekle.png?raw=true?raw=true"/>
+<img width="45%" src="https://github.com/canavdan/ProjectTrackingReactJS-MSSQL/blob/master/pictures/projectdetail.png?raw=true?raw=true"/>
 
